@@ -1,0 +1,4 @@
+gcc fileName.c -o fileName
+./fileName
+chmod +x fileName
+./fileName
