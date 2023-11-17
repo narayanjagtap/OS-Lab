@@ -2,3 +2,11 @@ gcc fileName.c -o fileName
 ./fileName
 chmod +x fileName
 ./fileName
+
+
+
+MKdir Narayan
+cd Narayan
+gedit filename.c
+gcc filename.c
+./a.out
